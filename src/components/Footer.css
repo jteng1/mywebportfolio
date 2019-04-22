@@ -6,8 +6,8 @@
 
 .footer-links a {
     color: #525252;
-    font-size: 2em;
-    padding: 1rem 1.5rem;
+    font-size: 2rem;
+    padding: 1.2rem;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, .4);
 }
 
@@ -23,6 +23,6 @@
 .copyright {
     font-family: 'Oxygen', sans-serif;
     font-size: 1rem;
-    color: #fff;
+    color: #5c5a5a;
     padding: 3rem;
 }

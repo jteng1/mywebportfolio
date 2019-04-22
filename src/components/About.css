@@ -31,11 +31,15 @@
 .main-column h2 {
     color: #fff;
     font-weight: 800;
-    margin-bottom: 14px;
+    padding-bottom: 18px;
 }
 
 .main-column p {
     color: #7a7a7a;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     line-height: 2em;
+}
+
+.main-column a {
+    margin-bottom: 20px;
 }
