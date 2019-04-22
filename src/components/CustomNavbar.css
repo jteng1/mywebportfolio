@@ -9,7 +9,7 @@
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
     font-size: 0.7em;
-    font-weight: 600;
+    font-weight: 0;
     letter-spacing: .3em;
     padding: .5rem 2rem .5rem 2rem;
 }

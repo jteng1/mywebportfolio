@@ -13,12 +13,11 @@ export default class About extends Component {
                     </Col>
                     <Col className="main-column" xs={12} sm={10}>
                         <h2>About Me</h2>
-                        <p>Conscientious, results-driven, articulate and analytical software engineer with many years of professional exposure in data-driven software engineering teams focusing on roles ranging from backend development of high availability, distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies</p>                        
-                        <p>Excellent written and verbal communication skills. Interested in challenging technical leadership roles in scaling distributed web applications.</p>
+                        <p>Self-taught developer that is conscientious, results-driven, articulate, and analytical. Always eager to learn new things and have a passion for any project that uses technology to further better our lives. Have a strong technological background with professional experience in roles dealing with data analytics, sales, technical writing, management and teaching. Looking to transition into a software/web development role.</p> <p>Excellent written and verbal communication skills. Interested in further developing my skills as a developer.</p>
                         <h2>Contact Details</h2>
-                        <p>justinteng@gmail.com</p>
+                        <a href="mailto:justinteng@gmail.com">justinteng@gmail.com</a>
+                        <h2>Location</h2>
                         <p>Cupertino, California</p>
-                        <a href="mailto:justinteng@gmail.com">Contact Me</a>  
                     </Col>
                 </Row>
             </Container>

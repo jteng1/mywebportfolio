@@ -17,13 +17,13 @@ export default class Skills extends Component {
                             <h3>Programming Languages</h3>
                             <Row>
                                 <p className="info">
-                                Worked primarily with JavaScript, Python and C++, with frameworks such as Express.js, Koa.js, React.js, Django and Flask. Interested in functional programming and serverless architectures, exploring with Erlang and AWS Lambda respectively.
+                                Work primarily with JavaScript and Python, with frameworks such as Express.js, React.js, Django and Flask. Primarily building projects with the MERN stack and implementing object-oriented design.
                                 </p>
                             </Row>
                             <h3>Database Systems</h3>
                             <Row>
                                 <p className="info">
-                                Experienced in both SQL and NoSQL, having worked in companies making use of DynamoDB, MongoDB, PostgreSQL and Aurora RDS flavour of MySQL, with personal further projects utilizing RethinkDB.
+                                Experience working with both SQL and NoSQL databases. Mainly utilizing MongoDB in current projects.
                                 </p>
                             </Row>
                         </Row>

@@ -20,10 +20,6 @@ export default class Home extends Component {
                                 <a href="https://github.com/nekasrofd" target="_blank" rel="noopener noreferrer">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
-                                {/* Freecodecamp */}
-                                <a href="http://google.com" target="_blank" rel="noopener noreferrer">
-                                    <i className="fa fa-free-code-camp" aria-hidden="true" />
-                                </a>
                                 {/* Mail */}
                                 <a href="mailto:justinteng@gmail.com">
                                     <i className="fa fa-envelope" aria-hidden="true" />
