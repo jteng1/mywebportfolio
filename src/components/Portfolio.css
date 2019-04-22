@@ -1,0 +1,22 @@
+.portfolio-header {
+    color: #95A3A3;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 2rem;
+    text-transform: uppercase;
+}
+
+.portfolio-section {
+    background-color: #ebeeee;
+    padding: 2rem;
+}
+
+.project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 10rem;
+    max-width: 20rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px) {
+    .profile-pic {
+        display: none;
+    }
+}
+
+.about-section {
+    background: #302f2f;
+    padding-top: 96px;
+    padding-bottom: 66px;
+}
+
+.profile-pic {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+
+.row {
+    width: 96%;
+    max-width: 1020px;
+    margin: 0 auto;
+}
+
+.main-column {
+    padding: 0 20px;
+}
+
+.main-column h2 {
+    color: #fff;
+    font-weight: 800;
+    margin-bottom: 14px;
+}
+
+.main-column p {
+    color: #7a7a7a;
+    margin-bottom: 30px;
+    line-height: 2em;
+}

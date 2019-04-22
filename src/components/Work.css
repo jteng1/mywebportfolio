@@ -1,0 +1,65 @@
+@media screen and (max-width: 768px) {
+    .work-section h1 {
+        padding: 0 0 0 0.5em;
+        margin-bottom: 3rem;
+    }
+}
+
+.work-section {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 0px;
+}
+
+.work-section h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
+}
+
+.work-section h1 span {
+    border-bottom: 3px solid #11ABB0;
+    padding-bottom: 6px;
+}
+
+.work-section h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.info {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+    color: #6E7881;
+    margin-bottom: 18px;
+    margin-top: 9px;
+}
+
+.info span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.bullet-point {
+    font-size: 140%;
+    padding-right: 5px;
+}
+
+.point {
+    color: #6E7881;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: .5px;
+    line-height: 30px;
+}
+
+.item {
+    margin-bottom: 40px;
+}
+
+.work-section .row {
+    border-bottom: 1px solid #E8E8E8;
+    margin-bottom: 48px;
+    padding-bottom: 24px;
+}
