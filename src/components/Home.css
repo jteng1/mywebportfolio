@@ -1,7 +1,7 @@
 @media screen and (max-width: 768px) {
     #headline {
-        margin-top: 15rem;
-        font-size: 2em;
+        margin-top: 12rem;
+        font-size: 3rem;
     }
 
     #tagline {
@@ -63,6 +63,6 @@
 /* Bottom arrow button */
 .bottom-button {
     color: #fff;
-    font-size: 3rem;
+    font-size: 2rem;
     margin-top: 4rem;
 }
