@@ -21,6 +21,7 @@ export default class Portfolio extends Component {
                             the card's content.
                             </Card.Text>
                             <Button variant="primary">Github</Button>
+                            <Button variant="primary">View Demo</Button>
                         </Card.Body>
                         </Card>
                     </Col> 
@@ -29,12 +30,13 @@ export default class Portfolio extends Component {
                         <Card className="project">
                         <Card.Img variant="top" src="holder.js/100px180" />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Blackjack App</Card.Title>
                             <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of
                             the card's content.
                             </Card.Text>
                             <Button variant="primary">Github</Button>
+                            <Button variant="primary">View Demo</Button>
                         </Card.Body>
                         </Card>
                     </Col>
@@ -49,6 +51,7 @@ export default class Portfolio extends Component {
                             the card's content.
                             </Card.Text>
                             <Button variant="primary">Github</Button>
+                            <Button variant="primary">View Demo</Button>
                         </Card.Body>
                         </Card>
                     </Col>
@@ -63,6 +66,7 @@ export default class Portfolio extends Component {
                             the card's content.
                             </Card.Text>
                             <Button variant="primary">Github</Button>
+                            <Button variant="primary">View Demo</Button>
                         </Card.Body>
                         </Card>
                     </Col> 

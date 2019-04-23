@@ -1,3 +1,4 @@
+/* Media Query for responsive design*/
 @media screen and (max-width: 768px) {
     .skills-section h1 {
         padding: 0 0 0 0.5em;
@@ -5,9 +6,12 @@
     }
 }
 
+/* Skills section */
 .skills-section {
     background: #fff;
+    padding-top: 90px;
     padding-bottom: 0px;
+    line-height: 30px;
 }
 
 .skills-section h1 {
@@ -28,6 +32,7 @@
     font-weight: 800;
 }
 
+/* Information under skills styles */
 .info {
     font-family: 'Libre Baskerville', serif;
     font-size: 15px;
@@ -40,6 +45,7 @@
     padding: 0;
 }
 
+/* Bullet point styles */
 .bullet-point {
     font-size: 140%;
     padding-right: 5px;
@@ -56,7 +62,3 @@
     margin-bottom: 40px;
 }
 
-.skills-section  {
-    padding-bottom: 24px;
-    line-height: 30px;
-}

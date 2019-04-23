@@ -5,7 +5,7 @@
     }
 
     #tagline {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
     
     #links {
@@ -15,6 +15,7 @@
 
 /* Home Styling */
 .home-section {
+    display: flex;
     background: url(../assets/background.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
@@ -22,8 +23,8 @@
     min-height: 500px;
     width: 100%;
     overflow: hidden;
-    text-align: center;
-
+    text-align: center; 
+    justify-content: center;
 }
 
 .home-section h1 {
@@ -63,6 +64,6 @@
 /* Bottom arrow button */
 .bottom-button {
     color: #fff;
-    font-size: 2rem;
-    margin-top: 4rem;
+    font-size: 3rem;
+    margin-top: 2rem;
 }

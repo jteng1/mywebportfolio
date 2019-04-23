@@ -1,3 +1,4 @@
+/* Media Query */
 @media screen and (max-width: 768px) {
     .education-section h1 {
         padding: 0 0 0 0.5em;
@@ -5,9 +6,12 @@
     }
 }
 
+/* Education Section */
 .education-section {
     background: #fff;
+    padding-top: 90px;
     padding-bottom: 0px;
+    border-bottom: 1px solid #E8E8E8
 }
 
 .education-section h1 {
@@ -28,6 +32,7 @@
     font-weight: 800;
 }
 
+/* Information section in education*/
 .info {
     font-family: 'Libre Baskerville', serif;
     font-size: 15px;
@@ -40,6 +45,7 @@
     padding: 0;
 }
 
+/* Bullet point styles */
 .bullet-point {
     font-size: 140%;
     padding-right: 5px;
@@ -54,10 +60,4 @@
 
 .item {
     margin-bottom: 40px;
-}
-
-.education-section  {
-    border-bottom: 1px solid #E8E8E8;
-    margin-bottom: 48px;
-    padding-bottom: 24px;
 }

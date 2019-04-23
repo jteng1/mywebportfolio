@@ -6,7 +6,7 @@ export default class Work extends Component {
     render() {
         return (
             <Container fluid id="work" className="work-section">
-                <Row className="row">
+                <Row>
                     <Col sm={2}>
                     <h1>
                         <span>Work</span>

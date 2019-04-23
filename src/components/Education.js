@@ -17,7 +17,7 @@ export default class Education extends Component {
                             <h3>University of California, Santa Barbara</h3>
                             <Row>
                                 <p className="info">
-                                    B.A. in Psychology
+                                    B. A. in Psychology
                                     <span> • </span>
                                     <span>Santa Barbara, California</span>
                                     <span> • </span>
