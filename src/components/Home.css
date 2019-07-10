@@ -1,69 +1,72 @@
+/* Media query for responsive design */
 @media screen and (max-width: 768px) {
-    #headline {
-        margin-top: 12rem;
-        font-size: 3rem;
-    }
+  #headline {
+    margin-top: 12rem;
+    font-size: 3rem;
+  }
 
-    #tagline {
-        font-size: 1.5rem;
-    }
-    
-    #links {
-        font-size: 0.7rem;
-    }
+  #tagline {
+    font-size: 1.5rem;
+  }
+
+  #links {
+    font-size: 0.7rem;
+  }
+
+  #buttonDown {
+    font-size: 2.5rem;
+  }
 }
 
 /* Home Styling */
 .home-section {
-    display: flex;
-    background: url(../assets/background.jpg) no-repeat top center;
-    background-size: cover;
-    position: relative;
-    height: 1080px;
-    min-height: 500px;
-    width: 100%;
-    overflow: hidden;
-    text-align: center; 
-    justify-content: center;
+  display: flex;
+  background: url(../assets/background.jpg) no-repeat fixed center;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  height: 980px;
+  width: 100%;
+  overflow: hidden;
 }
 
 .home-section h1 {
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 0.3rem;
-    font-size: 5rem;
-    color: #fff;
-    font-weight: 500;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
-    margin-top: 18rem;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.3rem;
+  font-size: 5rem;
+  color: #fff;
+  font-weight: 500;
+  text-shadow: 2px 2px #000;
+  margin-top: 12rem;
 }
 
 .home-section h3 {
-    font-family: 'Roboto', sans-serif;
-    color: #fff;
-    font-size: 3rem;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
-    padding: 2rem;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-size: 3rem;
+  text-shadow: 2px 2px #000;
+  padding: 2rem;
 }
 
 /* Social Links */
 .social-links {
-    margin-top: 4rem;
+  margin-top: 4rem;
 }
 
 .social-links a {
-    color: #fff;
-    font-size: 3em;
-    padding: 2rem;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+  color: #fff;
+  font-size: 3em;
+  padding: 2rem;
+  text-shadow: 2px 2px #000;
 }
 
 .social-links a:hover {
-    color: #007bff;
+  color: #007bff;
 }
 
-/* Bottom arrow button */
-.bottom-button {
-    color: #fff;
-    font-size: 3rem;
-    margin-top: 2rem;
+/* Go Down button */
+.down-button {
+  color: #fff;
+  font-size: 3rem;
+  text-shadow: 2px 2px #000;
 }

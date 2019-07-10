@@ -12,14 +12,14 @@ import Footer from './components/Footer';
 class App extends Component {
   render() {
     return (
-      <div id="home" className="app">
+      <div id='home' className='app'>
         <CustomNavbar />
         <Home />
+        <Portfolio />
         <About />
         <Work />
         <Education />
         <Skills />
-        <Portfolio />
         <Footer />
       </div>
     );
