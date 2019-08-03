@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Row, Col, Image } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import justinTengResume from '../assets/justinTengResume.pdf';
 import './About.css';
 
@@ -26,22 +26,14 @@ export default class About extends Component {
             <p>Looking to transition into a software development role.</p>
           </Col>
           <Col className='main-column' xs={12} sm={6}>
-            <h2>Contact Details</h2>
-            <i className='fa fa-envelope' aria-hidden='true' />
-            <a href='mailto:justinteng@gmail.com'>justinteng@gmail.com</a>
-            <h2>Location</h2>
-
-            <h2 id='location'>
-              <i className='fa fa-map-marker' aria-hidden='true' />
-              Cupertino, California
-            </h2>
-
-            <h2 id='resume'>Resume</h2>
-
-            <h2 id='resume'>
-              <i className='fa fa-file' aria-hidden='true' />
-              <a href={justinTengResume}>Resume</a>
-            </h2>
+            <h2 id='contact-header'>Contact Details</h2>
+            <a id='contact-link' href='mailto:justinteng@gmail.com'>
+              justinteng@gmail.com
+            </a>
+            <h2 id='location-header'>Location</h2>
+            <h2 id='location'>Cupertino, California</h2>
+            <h2 id='resume-header'>Resume</h2>
+            <a href={justinTengResume}>Download resume here</a>
           </Col>
         </Row>
       </Container>

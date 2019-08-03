@@ -16,8 +16,12 @@
   background-color: #302f2f;
   border-radius: 0;
   border: none;
-  padding: 0.6rem;
-  margin: 10px;
+}
+
+.project a {
+  background-color: #302f2f;
+  border-radius: 0;
+  border: none;
 }
 
 .project {

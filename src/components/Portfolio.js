@@ -21,8 +21,20 @@ export default class Portfolio extends Component {
                   An application to determine whether or not a type of food is
                   okay to feed a dog.
                 </Card.Text>
-                <Button variant='primary'>Code</Button>
-                <Button variant='primary'>Demo</Button>
+                <Button
+                  href='https://github.com/nekasrofd/DogEats'
+                  variant='primary'
+                  block
+                >
+                  Code
+                </Button>
+                <Button
+                  href='https://dogeats.justinteng.com'
+                  variant='primary'
+                  block
+                >
+                  Demo
+                </Button>
               </Card.Body>
             </Card>
           </Col>
@@ -36,8 +48,20 @@ export default class Portfolio extends Component {
                   A Blackjack game built in React to mimic playing Video
                   Blackjack at a casino. Has chip betting, statistics, and more.{' '}
                 </Card.Text>
-                <Button variant='primary'>Code</Button>
-                <Button variant='primary'>Demo</Button>
+                <Button
+                  href='https://github.com/nekasrofd/blackjack'
+                  variant='primary'
+                  block
+                >
+                  Code
+                </Button>
+                <Button
+                  href='https://blackjack.justinteng.com'
+                  variant='primary'
+                  block
+                >
+                  Demo
+                </Button>
               </Card.Body>
             </Card>
           </Col>
@@ -52,8 +76,20 @@ export default class Portfolio extends Component {
                   to allow each user to perform CRUD operations on their own set
                   of contacts.
                 </Card.Text>
-                <Button variant='primary'>Code</Button>
-                <Button variant='primary'>Demo</Button>
+                <Button
+                  href='https://github.com/nekasrofd/contact-keeper'
+                  variant='primary'
+                  block
+                >
+                  Code
+                </Button>
+                <Button
+                  href='https://contacts.justinteng.com'
+                  variant='primary'
+                  block
+                >
+                  Demo
+                </Button>
               </Card.Body>
             </Card>
           </Col>
@@ -67,8 +103,20 @@ export default class Portfolio extends Component {
                   Application that allows you to search for Github users and see
                   their details/repos.
                 </Card.Text>
-                <Button variant='primary'>Code</Button>
-                <Button variant='primary'>Demo</Button>
+                <Button
+                  href='https://github.com/nekasrofd/github-finder'
+                  variant='primary'
+                  block
+                >
+                  Code
+                </Button>
+                <Button
+                  href='https://githubfinder.justinteng.com'
+                  variant='primary'
+                  block
+                >
+                  Demo
+                </Button>
               </Card.Body>
             </Card>
           </Col>
