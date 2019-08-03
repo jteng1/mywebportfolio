@@ -1,63 +1,63 @@
 /* Media Query */
 @media screen and (max-width: 768px) {
-    .education-section h1 {
-        padding: 0 0 0 0.5em;
-        margin-bottom: 3rem;
-    }
+  .education-section h1 {
+    padding: 0 0 0 0.5em;
+    margin-bottom: 3rem;
+  }
 }
 
 /* Education Section */
 .education-section {
-    background: #fff;
-    padding-top: 90px;
-    padding-bottom: 0px;
-    border-bottom: 1px solid #E8E8E8
+  background: rgb(241, 241, 241);
+  padding-top: 45px;
+  padding-bottom: 0px;
+  border-bottom: 1px solid #c5c2c2;
 }
 
 .education-section h1 {
-    font-size: 18px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 800;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 800;
 }
 
 .education-section h1 span {
-    border-bottom: 3px solid #11ABB0;
-    padding-bottom: 6px;
+  border-bottom: 3px solid #11abb0;
+  padding-bottom: 6px;
 }
 
 .education-section h3 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 25px;
-    font-weight: 800;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  font-weight: 800;
 }
 
 /* Information section in education*/
 .info {
-    font-family: 'Libre Baskerville', serif;
-    font-size: 15px;
-    color: #6E7881;
-    margin-bottom: 18px;
-    margin-top: 9px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 15px;
+  color: #6e7881;
+  margin-bottom: 18px;
+  margin-top: 9px;
 }
 
 .info span {
-    padding: 0;
+  padding: 0;
 }
 
 /* Bullet point styles */
 .bullet-point {
-    font-size: 140%;
-    padding-right: 5px;
+  font-size: 140%;
+  padding-right: 5px;
 }
 
 .point {
-    color: #6E7881;
-    font-family: 'Open Sans', sans-serif;
-    letter-spacing: .5px;
-    line-height: 30px;
+  color: #6e7881;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.5px;
+  line-height: 30px;
 }
 
 .item {
-    margin-bottom: 40px;
+  margin-bottom: 1rem;
 }

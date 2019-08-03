@@ -24,6 +24,8 @@ export default class Education extends Component {
                   <span>Sep 2008 - Jun 2012</span>
                 </p>
               </Row>
+            </Row>
+            <Row className='item'>
               <h3>Monta Vista High School</h3>
               <Row>
                 <p className='info'>

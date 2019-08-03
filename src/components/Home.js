@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import justinTengResume from '../assets/justinTengResume.pdf';
 import './Home.css';
 
 export default class Home extends Component {
@@ -32,12 +33,12 @@ export default class Home extends Component {
                 <i className='fa fa-envelope' aria-hidden='true' />
               </a>
               {/* Resume */}
-              <a href='#resume'>
-                <i class='fa fa-file' aria-hidden='true' />
+              <a href={justinTengResume}>
+                <i className='fa fa-file' aria-hidden='true' />
               </a>
             </div>
             <div>
-              <a id='buttonDown' href='#portfolio' className='down-button'>
+              <a id='buttonDown' href='#about' className='down-button'>
                 <i className='fa fa-chevron-circle-down' aria-hidden='true' />
               </a>
             </div>

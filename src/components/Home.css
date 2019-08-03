@@ -10,7 +10,7 @@
   }
 
   #links {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   #buttonDown {
@@ -69,4 +69,8 @@
   color: #fff;
   font-size: 3rem;
   text-shadow: 2px 2px #000;
+}
+
+.fa-chevron-circle-down {
+  padding-top: 125px;
 }

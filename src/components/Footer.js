@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Container } from 'react-bootstrap';
+import justinTengResume from '../assets/justinTengResume.pdf';
 import './Footer.css';
 
 export default class Footer extends Component {
@@ -31,7 +32,7 @@ export default class Footer extends Component {
             <i className='fa fa-envelope' aria-hidden='true' />
           </a>
           {/* Resume */}
-          <a href='#resume'>
+          <a href={justinTengResume}>
             <i className='fa fa-file' aria-hidden='true' />
           </a>
         </div>

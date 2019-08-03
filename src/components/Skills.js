@@ -21,7 +21,7 @@ export default class Skills extends Component {
                   working with libraries and frameworks such as Express.js,
                   React.js, Django and Flask. Currently building full stack
                   projects with the MERN (MongoDB, Express.js, React.js,
-                  Node.js) stack and implementing object-oriented design.
+                  Node.js) stack and working with RESTful APIs.
                 </p>
                 <p className='info'>
                   Heavily using React.js on the front-end with experience

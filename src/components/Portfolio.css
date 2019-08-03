@@ -12,15 +12,18 @@
   padding: 2rem;
 }
 
-.project-button {
-  margin: 200px;
+.project button {
+  background-color: #302f2f;
+  border-radius: 0;
+  border: none;
+  padding: 0.6rem;
+  margin: 10px;
 }
 
 .project {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  min-width: 10rem;
-  max-width: 20rem;
+  min-width: auto;
+  max-width: auto;
+  height: auto;
   margin-bottom: 2rem;
 }
