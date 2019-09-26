@@ -43,7 +43,7 @@ export default class Work extends Component {
                 <span> • </span>
                 <span>Taipei, Taiwan</span>
                 <span> • </span>
-                <span>Jul 2017 - May 2018</span>
+                <span>Jul 2016 - May 2018</span>
               </p>
               <div className='points'>
                 <p className='point'>
