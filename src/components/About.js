@@ -11,19 +11,25 @@ export default class About extends Component {
           <Col className='main-column' xs={12} sm={6}>
             <h2>About Me</h2>
             <p>
-              Hi there, I'm Justin! Welcome to my website where I am showcasing
-              some projects I've been working on recently.
+              Hi there, I'm Justin and I love writing code. I love how I can use
+              code to bring my ideas to life and solve real-world problems using
+              software. Deploying my first application that people were excited
+              to use was one of the most rewarding feelings I've ever
+              experienced and sparked a passion in me to always be thinking of
+              new ways to use programming to further better the lives of people
+              around the world. It has also made me appreciate the fact that I
+              will never stop learning and that it's possible to leverage all of
+              my existing knowledge and consolidate it into something that can
+              be impactful through software.
             </p>
             <p>
-              I'm a software developer that is conscientious, results-driven,
-              articulate, and analytical. I'm always eager to learn new things
-              and have a passion for any project that uses technology to further
-              better our lives. Have a strong technological background with
-              professional experience in roles dealing with data analytics,
-              sales, and technical writing. Currently teaching while also
-              working on personal projects to further my skills as a developer.
+              I'm a firm believer in that coding is just a tool that helps solve
+              problems and at the end of the day it's people working towards the
+              same goal that can make even the biggest of problems seem
+              possible. I strive to find like-minded individuals to collaborate
+              with so feel free to contact me and check out some projects I'm
+              working on below.
             </p>
-            <p>Looking to transition into a software development role.</p>
           </Col>
           <Col className='main-column' xs={12} sm={6}>
             <h2 id='contact-header'>Contact Details</h2>

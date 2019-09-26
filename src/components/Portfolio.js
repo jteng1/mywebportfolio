@@ -18,8 +18,13 @@ export default class Portfolio extends Component {
               <Card.Body>
                 <Card.Title>Dog Eats</Card.Title>
                 <Card.Text>
-                  An application to determine whether or not a type of food is
-                  okay to feed a dog.
+                  Full-stack application built with MongoDB, Express.js,
+                  React.js, and Node.js (MERN Stack) that helps you determines
+                  whether or not a food is safe for your dog to eat. Has
+                  authentication to allow admin accounts the ability to perform
+                  CRUD operations on foods. Built with the idea to be more
+                  convenient than searching "Can my dog eat X?" on Google. Uses
+                  React Context API for state management.
                 </Card.Text>
                 <Button
                   href='https://github.com/nekasrofd/DogEats'
@@ -28,38 +33,7 @@ export default class Portfolio extends Component {
                 >
                   Code
                 </Button>
-                <Button
-                  href='https://dogeats.justinteng.com'
-                  variant='primary'
-                  block
-                >
-                  Demo
-                </Button>
-              </Card.Body>
-            </Card>
-          </Col>
-
-          <Col xs={12} sm={6} md={3}>
-            <Card className='project'>
-              <Card.Img variant='top' src={project1} />
-              <Card.Body>
-                <Card.Title>Blackjack</Card.Title>
-                <Card.Text>
-                  A Blackjack game built in React to mimic playing Video
-                  Blackjack at a casino. Has chip betting, statistics, and more.{' '}
-                </Card.Text>
-                <Button
-                  href='https://github.com/nekasrofd/blackjack'
-                  variant='primary'
-                  block
-                >
-                  Code
-                </Button>
-                <Button
-                  href='https://blackjack.justinteng.com'
-                  variant='primary'
-                  block
-                >
+                <Button href='https://dog-eats.com' variant='primary' block>
                   Demo
                 </Button>
               </Card.Body>
@@ -72,9 +46,13 @@ export default class Portfolio extends Component {
               <Card.Body>
                 <Card.Title>Contact Keeper</Card.Title>
                 <Card.Text>
-                  Full stack Contact Keeper application that has authentication
-                  to allow each user to perform CRUD operations on their own set
-                  of contacts.
+                  Full-stack application built with MongoDB, Express.js,
+                  React.js and Node.js that allows users to sign up for an
+                  account and keep a list of contacts that are unique to each
+                  account. Each user can also perform CRUD operations on their
+                  contact list and search through their contact list using
+                  various methods such as by e-mail, phone number, or name. Uses
+                  React Context API for state management.
                 </Card.Text>
                 <Button
                   href='https://github.com/nekasrofd/contact-keeper'
@@ -84,7 +62,7 @@ export default class Portfolio extends Component {
                   Code
                 </Button>
                 <Button
-                  href='https://contacts.justinteng.com'
+                  href='https://intense-depths-64881.herokuapp.com'
                   variant='primary'
                   block
                 >
@@ -98,20 +76,53 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={project1} />
               <Card.Body>
-                <Card.Title>Github Finder</Card.Title>
+                <Card.Title>IT Logger</Card.Title>
                 <Card.Text>
-                  Application that allows you to search for Github users and see
-                  their details/repos.
+                  Full-stack application built with MongoDB, Express.js,
+                  React.js and Node.js that allows an IT shop, or computer
+                  repair shop to keep track of all their repairs/bug logs.
+                  Allows multiple technicians the ability to keep track of
+                  urgent/solved logs on a global list. Every technician has the
+                  ability to perform CRUD operations on the global list of logs.
+                  Uses Redux for state management and MaterialUI for the design.
                 </Card.Text>
                 <Button
-                  href='https://github.com/nekasrofd/github-finder'
+                  href='https://github.com/nekasrofd/it-logger'
                   variant='primary'
                   block
                 >
                   Code
                 </Button>
                 <Button
-                  href='https://githubfinder.justinteng.com'
+                  href='https://powerful-bayou-86248.herokuapp.com'
+                  variant='primary'
+                  block
+                >
+                  Demo
+                </Button>
+              </Card.Body>
+            </Card>
+          </Col>
+
+          <Col xs={12} sm={6} md={3}>
+            <Card className='project'>
+              <Card.Img variant='top' src={project1} />
+              <Card.Body>
+                <Card.Title>Video Blackjack</Card.Title>
+                <Card.Text>
+                  Application inspired by the Video Blackjack games played at
+                  casinos. Has betting, double-down, and statistics, just like
+                  the real thing! Built with React and uses DeckofCards API.
+                </Card.Text>
+                <Button
+                  href='https://github.com/nekasrofd/blackjack'
+                  variant='primary'
+                  block
+                >
+                  Code
+                </Button>
+                <Button
+                  href='https://nekasrofd.github.io/blackjack/'
                   variant='primary'
                   block
                 >
