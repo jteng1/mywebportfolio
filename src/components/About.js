@@ -15,7 +15,7 @@ export default class About extends Component {
               code to bring my ideas to life and solve real-world problems using
               software. Deploying my first application that people were excited
               to use was one of the most rewarding feelings I've ever
-              experienced and sparked a passion in me to always be thinking of
+              experienced. It sparked a passion in me to always be thinking of
               new ways to use programming to further better the lives of people
               around the world. It has also made me appreciate the fact that I
               will never stop learning and that it's possible to leverage all of

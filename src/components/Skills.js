@@ -38,7 +38,7 @@ export default class Skills extends Component {
                 <p className='info'>
                   Experience working with both SQL and NoSQL databases. Mainly
                   utilizing MongoDB in current projects but also have experience
-                  in using MySQL and PostgreSQL.
+                  using MySQL and PostgreSQL.
                 </p>
               </Row>
             </Row>

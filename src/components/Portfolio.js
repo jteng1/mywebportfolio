@@ -22,9 +22,11 @@ export default class Portfolio extends Component {
                   React.js, and Node.js (MERN Stack) that helps you determines
                   whether or not a food is safe for your dog to eat. Has
                   authentication to allow admin accounts the ability to perform
-                  CRUD operations on foods. Built with the idea to be more
-                  convenient than searching "Can my dog eat X?" on Google. Uses
-                  React Context API for state management.
+                  CRUD operations on database of foods. Built with the idea to
+                  be more convenient than searching "Can my dog eat X?" on
+                  Google. Uses React Context API for state management,
+                  JSONWebToken for authentication, and utilizes RESTful API
+                  principles.
                 </Card.Text>
                 <Button
                   href='https://github.com/nekasrofd/DogEats'
@@ -52,7 +54,8 @@ export default class Portfolio extends Component {
                   account. Each user can also perform CRUD operations on their
                   contact list and search through their contact list using
                   various methods such as by e-mail, phone number, or name. Uses
-                  React Context API for state management.
+                  React Context API for state management, JSONWebToken for
+                  authentication, and utilizes RESTful API principles.
                 </Card.Text>
                 <Button
                   href='https://github.com/nekasrofd/contact-keeper'
@@ -84,7 +87,8 @@ export default class Portfolio extends Component {
                   Allows multiple technicians the ability to keep track of
                   urgent/solved logs on a global list. Every technician has the
                   ability to perform CRUD operations on the global list of logs.
-                  Uses Redux for state management and MaterialUI for the design.
+                  Uses Redux for state management, MaterialUI for the design and
+                  utilizes RESTful API principles.
                 </Card.Text>
                 <Button
                   href='https://github.com/nekasrofd/it-logger'
