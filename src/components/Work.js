@@ -47,19 +47,8 @@ export default class Work extends Component {
               </p>
               <div className='points'>
                 <p className='point'>
-                  Launched a Fundamentals of Programming curriculum for
-                  elementary school students that highlighted basic programming
-                  concepts such as variables, looping, and conditionals, based
-                  on the Hour of Code instruction platform.
-                </p>
-                <p className='point'>
                   Created new curriculum for English Comprehension that improved
                   student test scores by average of 20%.
-                </p>
-                <p className='point'>
-                  Utilized cognitive science inspired educational tools, such as
-                  the RightStart mathematics program, to supplement core school
-                  curriculum in an educational, fun, and refreshing manner.
                 </p>
               </div>
             </Row>

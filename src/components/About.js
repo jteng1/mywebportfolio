@@ -25,7 +25,7 @@ export default class About extends Component {
             <p>
               I'm a firm believer in that coding is just a tool that helps solve
               problems and at the end of the day it's people working towards the
-              same goal that can make even the biggest of problems seem
+              same goal that can make even the most impossible of problems seem
               possible. I strive to find like-minded individuals to collaborate
               with so feel free to contact me and check out some projects I'm
               working on below.
