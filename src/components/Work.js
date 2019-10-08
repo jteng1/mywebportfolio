@@ -78,8 +78,7 @@ export default class Work extends Component {
                 <p className='point'>
                   Worked with parents to create productive academic plans
                   tailored for each student's personal success and received high
-                  praises from parents for impact had on student grades and test
-                  scores.
+                  praises for impact on student grades and test scores.
                 </p>
               </div>
             </Row>
@@ -97,15 +96,16 @@ export default class Work extends Component {
               </p>
               <div className='points'>
                 <p className='point'>
-                  Proactively identified ways to utilize data visualization to
-                  better help potential clients understand areas in which data
-                  analytics will offer many benefits in their specific use case
-                  scenarios.
+                  Proactively identified ways utilizing data visualization to
+                  better help clients understand potential areas in which data
+                  analytics can benefit them when customized to their unique
+                  specifications.
                 </p>
                 <p className='point'>
                   Produced detailed reports to clients that included analysis on
                   Enterprise level cases through use of data analytics,
-                  visualization, and manipulation performed with our software.
+                  visualization, and manipulation performed with our data
+                  analytics software.
                 </p>
                 <p className='point'>
                   Delivered high level technical support which included on-site
@@ -124,7 +124,7 @@ export default class Work extends Component {
                 <p className='point'>
                   Communicated client needs and specifications to engineering
                   team to better produce development path for subsequent
-                  projects.
+                  versions.
                 </p>
                 <p className='point'>
                   Handled all aspects of technical writing, including technical
@@ -157,12 +157,12 @@ export default class Work extends Component {
                 <p className='point'>
                   Coordinated final overview and proofread of both Utility and
                   Design patent cases which included translations and technical
-                  writing that protected intellectual property.
+                  writing for protecting intellectual property.
                 </p>
                 <p className='point'>
-                  Provided clients with high level customer support to help them
-                  better understand patent application processes for both United
-                  States Patent and Trademark Office and European Patent Office.
+                  Guided clients through patent application processes for both
+                  United States Patent and Trademark Office and European Patent
+                  Office.
                 </p>
               </div>
             </Row>
