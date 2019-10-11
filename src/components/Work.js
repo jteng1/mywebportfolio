@@ -96,10 +96,9 @@ export default class Work extends Component {
               </p>
               <div className='points'>
                 <p className='point'>
-                  Proactively identified ways utilizing data visualization to
-                  better help clients understand potential areas in which data
-                  analytics can benefit them when customized to their unique
-                  specifications.
+                  Identified ways to utilize data visualization to better help
+                  clients understand potential areas in which data analytics can
+                  benefit when customized to specific use case scenarios.
                 </p>
                 <p className='point'>
                   Produced detailed reports to clients that included analysis on
