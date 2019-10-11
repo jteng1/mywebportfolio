@@ -21,7 +21,7 @@ export default class Footer extends Component {
           </a>
           {/* Github */}
           <a
-            href='https://github.com/nekasrofd'
+            href='https://github.com/jteng1/'
             target='_blank'
             rel='noopener noreferrer'
           >

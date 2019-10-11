@@ -31,7 +31,7 @@ export default class Portfolio extends Component {
                   authentication, and utilizes RESTful API principles.
                 </Card.Text>
                 <Button
-                  href='https://github.com/nekasrofd/DogEats'
+                  href='https://github.com/jteng1/DogEats'
                   variant='primary'
                   block
                 >
@@ -62,14 +62,14 @@ export default class Portfolio extends Component {
                   DeckofCards API.
                 </Card.Text>
                 <Button
-                  href='https://github.com/nekasrofd/blackjack'
+                  href='https://github.com/jteng1/blackjack'
                   variant='primary'
                   block
                 >
                   View Code
                 </Button>
                 <Button
-                  href='https://nekasrofd.github.io/blackjack/'
+                  href='https://jteng1.github.io/blackjack/'
                   variant='primary'
                   block
                 >
@@ -98,7 +98,7 @@ export default class Portfolio extends Component {
                   authentication, and utilizes RESTful API principles.
                 </Card.Text>
                 <Button
-                  href='https://github.com/nekasrofd/contact-keeper'
+                  href='https://github.com/jteng1/contact-keeper'
                   variant='primary'
                   block
                 >
@@ -133,7 +133,7 @@ export default class Portfolio extends Component {
                   and utilizes RESTful API principles.
                 </Card.Text>
                 <Button
-                  href='https://github.com/nekasrofd/it-logger'
+                  href='https://github.com/jteng1/it-logger'
                   variant='primary'
                   block
                 >
