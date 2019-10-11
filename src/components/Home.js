@@ -14,7 +14,7 @@ export default class Home extends Component {
             <div id='links' className='social-links'>
               {/* LinkedIn */}
               <a
-                href='https://www.linkedin.com/in/jteng1/'
+                href='https://linkedin.com/in/jteng1/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
