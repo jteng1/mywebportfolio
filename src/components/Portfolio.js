@@ -83,6 +83,41 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={project1} />
               <Card.Body>
+                <Card.Title>IT Log Tracker</Card.Title>
+                <Card.Text>
+                  Full-stack SPA built with MongoDB, Express.js, React.js and
+                  Node.js that allows an IT shop, or computer repair shop to
+                  keep track of all their repairs/bug logs. Allows multiple
+                  technicians the ability to keep track of urgent/solved logs on
+                  a global list. Every technician has the ability to perform
+                  CRUD operations on the global list of logs.
+                </Card.Text>
+                <Card.Text>
+                  Uses Redux for state management, Material-UI for the design
+                  and utilizes RESTful API principles.
+                </Card.Text>
+                <Button
+                  href='https://github.com/jteng1/it-logger'
+                  variant='primary'
+                  block
+                >
+                  View Code
+                </Button>
+                <Button
+                  href='https://powerful-bayou-86248.herokuapp.com'
+                  variant='primary'
+                  block
+                >
+                  Live Demo
+                </Button>
+              </Card.Body>
+            </Card>
+          </Col>
+
+          <Col xs={12} sm={6}>
+            <Card className='project'>
+              <Card.Img variant='top' src={project1} />
+              <Card.Body>
                 <Card.Title>Contact Keeper</Card.Title>
                 <Card.Text>
                   Full-stack SPA built with MongoDB, Express.js, React.js and
@@ -106,41 +141,6 @@ export default class Portfolio extends Component {
                 </Button>
                 <Button
                   href='https://intense-depths-64881.herokuapp.com'
-                  variant='primary'
-                  block
-                >
-                  Live Demo
-                </Button>
-              </Card.Body>
-            </Card>
-          </Col>
-
-          <Col xs={12} sm={6}>
-            <Card className='project'>
-              <Card.Img variant='top' src={project1} />
-              <Card.Body>
-                <Card.Title>IT Log Tracker</Card.Title>
-                <Card.Text>
-                  Full-stack SPA built with MongoDB, Express.js, React.js and
-                  Node.js that allows an IT shop, or computer repair shop to
-                  keep track of all their repairs/bug logs. Allows multiple
-                  technicians the ability to keep track of urgent/solved logs on
-                  a global list. Every technician has the ability to perform
-                  CRUD operations on the global list of logs.
-                </Card.Text>
-                <Card.Text>
-                  Uses Redux for state management, Material-UI for the design
-                  and utilizes RESTful API principles.
-                </Card.Text>
-                <Button
-                  href='https://github.com/jteng1/it-logger'
-                  variant='primary'
-                  block
-                >
-                  View Code
-                </Button>
-                <Button
-                  href='https://powerful-bayou-86248.herokuapp.com'
                   variant='primary'
                   block
                 >

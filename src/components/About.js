@@ -39,7 +39,7 @@ export default class About extends Component {
             <h2 id='location-header'>Location</h2>
             <h2 id='location'>Cupertino, California</h2>
             <h2 id='resume-header'>Resume</h2>
-            <a href={justinTengResume}>Download resume here</a>
+            <a href={justinTengResume}>View resume</a>
           </Col>
         </Row>
       </Container>
