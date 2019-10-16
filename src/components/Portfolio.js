@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
-import project1 from '../assets/project1.jpg';
-import project2 from '../assets/project2.gif';
+import dogeatsgif from '../assets/dogeats.gif';
+import blackjackgif from '../assets/blackjack.gif';
+import itloggergif from '../assets/itlogger.gif';
+import contactkeepergif from '../assets/contactkeeper.gif';
 import './Portfolio.css';
 
 export default class Portfolio extends Component {
@@ -14,17 +16,16 @@ export default class Portfolio extends Component {
           </Col>
           <Col xs={12} sm={6}>
             <Card className='project'>
-              <Card.Img variant='top' src={project2} />
+              <Card.Img variant='top' src={dogeatsgif} />
               <Card.Body>
                 <Card.Title>Dog Eats</Card.Title>
                 <Card.Text>
                   Full-stack single-page application built with MongoDB,
                   Express.js, React.js, and Node.js (MERN Stack) that helps you
                   determines whether or not a food is safe for your dog to eat.
-                  Has authentication to allow admin accounts the ability to
-                  perform CRUD operations on database of foods. Built with the
-                  idea to be more convenient than searching "Can my dog eat X?"
-                  on Google.
+                  Authentication allows admin accounts the ability to perform
+                  CRUD operations on database of foods. Built to be more
+                  convenient than searching "Can my dog eat X?" on Google.
                 </Card.Text>
                 <Card.Text>
                   Uses React Context API for state management, JSONWebToken for
@@ -46,7 +47,7 @@ export default class Portfolio extends Component {
 
           <Col xs={12} sm={6}>
             <Card className='project'>
-              <Card.Img variant='top' src={project1} />
+              <Card.Img variant='top' src={blackjackgif} />
               <Card.Body>
                 <Card.Title>Video Blackjack</Card.Title>
                 <Card.Text>
@@ -60,6 +61,9 @@ export default class Portfolio extends Component {
                 <Card.Text>
                   Built with class based React components and utilizes the
                   DeckofCards API.
+                  <br />
+                  <br />
+                  <br />
                 </Card.Text>
                 <Button
                   href='https://github.com/jteng1/blackjack'
@@ -81,7 +85,7 @@ export default class Portfolio extends Component {
 
           <Col xs={12} sm={6}>
             <Card className='project'>
-              <Card.Img variant='top' src={project1} />
+              <Card.Img variant='top' src={itloggergif} />
               <Card.Body>
                 <Card.Title>IT Log Tracker</Card.Title>
                 <Card.Text>
@@ -95,6 +99,9 @@ export default class Portfolio extends Component {
                 <Card.Text>
                   Uses Redux for state management, Material-UI for the design
                   and utilizes RESTful API principles.
+                  <br />
+                  <br />
+                  <br />
                 </Card.Text>
                 <Button
                   href='https://github.com/jteng1/it-logger'
@@ -116,7 +123,7 @@ export default class Portfolio extends Component {
 
           <Col xs={12} sm={6}>
             <Card className='project'>
-              <Card.Img variant='top' src={project1} />
+              <Card.Img variant='top' src={contactkeepergif} />
               <Card.Body>
                 <Card.Title>Contact Keeper</Card.Title>
                 <Card.Text>
