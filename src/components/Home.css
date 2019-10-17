@@ -25,11 +25,11 @@
 /* Home Styling */
 .home-section {
   display: flex;
-  background: url(../assets/background.jpg) no-repeat fixed center;
+  background: url(../assets/background.svg) no-repeat fixed center;
   background-size: cover;
   position: relative;
   text-align: center;
-  height: 980px;
+  height: 100vh;
   width: 100%;
   overflow: hidden;
 }
