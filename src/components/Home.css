@@ -82,6 +82,6 @@
 /* Media Query for serving retina images */
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
   .home-section {
-    background: #7d7d7d url(../assets/background2x.jpg) no-repeat fixed center;
+    background-image: url(../assets/background2x.jpg);
   }
 }
