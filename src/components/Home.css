@@ -22,10 +22,17 @@
   }
 }
 
+/* Media Query for serving retina images */
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  .home-section {
+    background: #7d7d7d url(../assets/background2x.jpg) no-repeat fixed center;
+  }
+}
+
 /* Home Styling */
 .home-section {
   display: flex;
-  background: url(../assets/background.svg) no-repeat fixed center;
+  background: #7d7d7d url(../assets/background.jpg) no-repeat fixed center;
   background-size: cover;
   position: relative;
   text-align: center;

@@ -1,7 +1,6 @@
 /* Media queries */
 @media screen and (max-width: 768px) {
   .work-section h1 {
-    padding: 0 0 0 0.5em;
     margin-bottom: 2rem;
   }
 }

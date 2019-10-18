@@ -1,7 +1,6 @@
 /* Media Query */
 @media screen and (max-width: 768px) {
   .education-section h1 {
-    padding: 0 0 0 0.5em;
     margin-bottom: 3rem;
   }
 }
