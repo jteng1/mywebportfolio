@@ -18,7 +18,11 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={dogeatsgif} />
               <Card.Body>
-                <Card.Title>Dog Eats</Card.Title>
+                <Card.Title>
+                  <a className='project-links' href='https://dog-eats.com'>
+                    Dog Eats
+                  </a>
+                </Card.Title>
                 <Card.Text>
                   Full-stack single-page application built with MongoDB,
                   Express.js, React.js, and Node.js (MERN Stack) that helps you
@@ -49,7 +53,14 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={blackjackgif} />
               <Card.Body>
-                <Card.Title>Video Blackjack</Card.Title>
+                <Card.Title>
+                  <a
+                    className='project-links'
+                    href='https://jteng1.github.io/blackjack/'
+                  >
+                    Video Blackjack
+                  </a>
+                </Card.Title>
                 <Card.Text>
                   Have you ever wanted to play Video Blackjack just like you
                   were playing on those machines in Las Vegas casinos? Well now
@@ -87,7 +98,14 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={itloggergif} />
               <Card.Body>
-                <Card.Title>IT Log Tracker</Card.Title>
+                <Card.Title>
+                  <a
+                    className='project-links'
+                    href='https://powerful-bayou-86248.herokuapp.com'
+                  >
+                    IT Log Tracker
+                  </a>
+                </Card.Title>
                 <Card.Text>
                   Full-stack SPA built with MongoDB, Express.js, React.js and
                   Node.js that allows an IT shop, or computer repair shop to
@@ -125,7 +143,14 @@ export default class Portfolio extends Component {
             <Card className='project'>
               <Card.Img variant='top' src={contactkeepergif} />
               <Card.Body>
-                <Card.Title>Contact Keeper</Card.Title>
+                <Card.Title>
+                  <a
+                    className='project-links'
+                    href='https://intense-depths-64881.herokuapp.com'
+                  >
+                    Contact Keeper
+                  </a>
+                </Card.Title>
                 <Card.Text>
                   Full-stack SPA built with MongoDB, Express.js, React.js and
                   Node.js that allows users to register/login to an account and
