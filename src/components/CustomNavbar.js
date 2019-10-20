@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
+import justinTengResume from '../assets/justinTengResume.pdf';
 import './CustomNavbar.css';
 
 export default class CustomNavbar extends Component {
@@ -15,11 +16,12 @@ export default class CustomNavbar extends Component {
         <Navbar.Collapse id='responsive-navbar-nav'>
           <Nav className='mr-auto'>
             <Nav.Link href='#home'>Home</Nav.Link>
-            <Nav.Link href='#portfolio'>Projects</Nav.Link>
             <Nav.Link href='#about'>About</Nav.Link>
+            <Nav.Link href='#portfolio'>Projects</Nav.Link>
             <Nav.Link href='#work'>Work</Nav.Link>
             <Nav.Link href='#education'>Education</Nav.Link>
             <Nav.Link href='#skills'>Skills</Nav.Link>
+            <Nav.Link href={justinTengResume}>Resume</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
