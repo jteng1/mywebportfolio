@@ -15,7 +15,7 @@ export default class Work extends Component {
 
           <Col className='items' sm={10}>
             {/* Work 1 */}
-            <Row className='item'>
+            {/* <Row className='item'>
               <h3>Legend College Prepatory</h3>
             </Row>
             <Row>
@@ -32,9 +32,9 @@ export default class Work extends Component {
                   mathematics, physics, computer science and statistics.
                 </p>
               </div>
-            </Row>
+            </Row> */}
             {/* Work 2 */}
-            <Row className='item'>
+            {/* <Row className='item'>
               <h3>The Princeton School</h3>
             </Row>
             <Row>
@@ -51,9 +51,9 @@ export default class Work extends Component {
                   student test scores by average of 20%.
                 </p>
               </div>
-            </Row>
+            </Row> */}
             {/* Work 3 */}
-            <Row className='item'>
+            {/* <Row className='item'>
               <h3>Legend Learning Center</h3>
             </Row>
             <Row>
@@ -81,7 +81,7 @@ export default class Work extends Component {
                   praises for impact on student grades and test scores.
                 </p>
               </div>
-            </Row>
+            </Row> */}
             {/* Work 4 */}
             <Row className='item'>
               <h3>AnCAD, Inc.</h3>

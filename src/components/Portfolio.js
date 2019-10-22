@@ -108,11 +108,11 @@ export default class Portfolio extends Component {
                 </Card.Title>
                 <Card.Text>
                   Full-stack SPA built with MongoDB, Express.js, React.js and
-                  Node.js that allows an IT shop, or computer repair shop to
-                  keep track of all their repairs/bug logs. Allows multiple
-                  technicians the ability to keep track of urgent/solved logs on
-                  a global list. Every technician has the ability to perform
-                  CRUD operations on the global list of logs.
+                  Node.js that allows an repair center to keep track of all
+                  their repair logs. Allows multiple technicians the ability to
+                  keep track of urgent/solved logs on a global list. Every
+                  technician has the ability to perform CRUD operations on the
+                  global list of logs.
                 </Card.Text>
                 <Card.Text>
                   Uses Redux for state management, Material-UI for the design

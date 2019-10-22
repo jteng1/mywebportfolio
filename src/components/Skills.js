@@ -17,12 +17,13 @@ export default class Skills extends Component {
               <h3>Programming Languages</h3>
               <Row>
                 <p className='info'>
-                  Work primarily with HTML/CSS/JS, using frameworks to build
-                  full stack applications using the MERN (MongoDB, Express.js,
-                  React.js, Node.js) stack and creating RESTful APIs.
+                  Work primarily with HTML/CSS/JavaSript, utilizing frameworks
+                  to build full stack applications mostly using the MERN
+                  (MongoDB, Express.js, React.js, Node.js) stack and creating
+                  RESTful APIs.
                 </p>
                 <p className='info'>
-                  Always willing to learn whatever is needed for the project.
+                  Ability to learn whatever is needed for the project.
                 </p>
               </Row>
               <h3>Database Systems</h3>
