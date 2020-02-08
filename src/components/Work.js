@@ -15,24 +15,21 @@ export default class Work extends Component {
 
           <Col className='items' sm={10}>
             {/* Work 1 */}
-            {/* <Row className='item'>
-              <h3>Legend College Prepatory</h3>
+            <Row className='item'>
+              <h3>Toyota Research Institute</h3>
             </Row>
             <Row>
               <p className='info'>
-                Teacher
+                Simulation Operations Specialist
                 <span> • </span>
-                <span>Cupertino, California</span>
+                <span>Los Altos, California</span>
                 <span> • </span>
-                <span>Aug 2018 - Present</span>
+                <span>Jan 2020 - Present</span>
               </p>
               <div className='points'>
-                <p className='point'>
-                  Currently tutoring students high school and AP level
-                  mathematics, physics, computer science and statistics.
-                </p>
+                <p className='point'></p>
               </div>
-            </Row> */}
+            </Row>
             {/* Work 2 */}
             {/* <Row className='item'>
               <h3>The Princeton School</h3>
@@ -88,7 +85,7 @@ export default class Work extends Component {
             </Row>
             <Row>
               <p className='info'>
-                Sales Engineer
+                Quality Assurance Specialist
                 <span> • </span>
                 <span>Taipei, Taiwan</span>
                 <span> • </span>
@@ -96,29 +93,28 @@ export default class Work extends Component {
               </p>
               <div className='points'>
                 <p className='point'>
-                  Identified ways to utilize data visualization to better help
-                  clients understand potential areas in which data analytics can
-                  benefit when customized to specific use case scenarios.
+                  Performed inspections and conducted testing of in house
+                  software to ensure production deployments were of high-quality
+                  and free from bugs and errors.
                 </p>
                 <p className='point'>
-                  Produced detailed reports to clients that included analysis on
-                  Enterprise level cases through use of data analytics,
-                  visualization, and manipulation performed with our data
-                  analytics software.
+                  Maintained testing environments at research facilities,
+                  university laboratories, and manufacturing plants to
+                  collect/analyze data and evaluate efficiencies to improve
+                  processes.
                 </p>
                 <p className='point'>
-                  Delivered high level technical support which included on-site
-                  training and setting up testing environments to record data
-                  which resulted in high client retention.
+                  Analyzed equipment and machinery malfunctions to identify root
+                  causes and resolve issues through the use of data analytics.
                 </p>
                 <p className='point'>
-                  Responsible for maintaining testing environments at research
-                  facilities, university laboratories, and manufacturing plants
-                  in order to collect and analyze data.
+                  Developed and executed method to obtain post-production
+                  product feedback from customers, which increased satisfaction
+                  ratings by 30%.
                 </p>
                 <p className='point'>
-                  Acted as technical advisor to sales team when meeting with
-                  clients.
+                  Handled all aspects of technical writing, including technical
+                  documentation, bug reports, and version update logs.
                 </p>
                 <p className='point'>
                   Communicated client needs and specifications to engineering
@@ -137,7 +133,7 @@ export default class Work extends Component {
             </Row>
             <Row>
               <p className='info'>
-                Patent Specialist
+                Quality Assurance Specialist
                 <span> • </span>
                 <span>Taipei, Taiwan</span>
                 <span> • </span>
@@ -145,23 +141,12 @@ export default class Work extends Component {
               </p>
               <div className='points'>
                 <p className='point'>
-                  Utilized AutoCAD and SolidWorks to model intellectual
-                  property.
+                  Thoroughly inspected 500+ patents to ensure related patents
+                  were of high quality and free from errors and inconsistencies.
                 </p>
                 <p className='point'>
-                  Collaborated with team of patent engineers to expedite related
-                  processes in obtaining a patent, researching prior art, and
-                  protecting intellectual property.
-                </p>
-                <p className='point'>
-                  Coordinated final overview and proofread of both Utility and
-                  Design patent cases which included translations and technical
-                  writing for protecting intellectual property.
-                </p>
-                <p className='point'>
-                  Guided clients through patent application processes for both
-                  United States Patent and Trademark Office and European Patent
-                  Office.
+                  Improved related processes to obtaining a patent including
+                  researching prior art and protecting intellectual property.
                 </p>
               </div>
             </Row>
