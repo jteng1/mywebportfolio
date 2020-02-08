@@ -103,16 +103,16 @@ export default class Portfolio extends Component {
                     className='project-links'
                     href='https://powerful-bayou-86248.herokuapp.com'
                   >
-                    IT Log Tracker
+                    Issue Tracker
                   </a>
                 </Card.Title>
                 <Card.Text>
                   Full-stack SPA built with MongoDB, Express.js, React.js and
-                  Node.js that allows an repair center to keep track of all
-                  their repair logs. Allows multiple technicians the ability to
-                  keep track of urgent/solved logs on a global list. Every
-                  technician has the ability to perform CRUD operations on the
-                  global list of logs.
+                  Node.js that allows you to keep track of all your issues to be
+                  addressed. Allows multiple users the ability to keep track of
+                  urgent/solved issues on a global list. Every user has the
+                  ability to perform CRUD operations on the global list of
+                  issues.
                 </Card.Text>
                 <Card.Text>
                   Uses Redux for state management, Material-UI for the design
