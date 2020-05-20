@@ -121,10 +121,6 @@ export default class Work extends Component {
                   team to better produce development path for subsequent
                   versions.
                 </p>
-                <p className='point'>
-                  Handled all aspects of technical writing, including technical
-                  documentation, bug reports, and version update logs.
-                </p>
               </div>
             </Row>
             {/* Work 5 */}
